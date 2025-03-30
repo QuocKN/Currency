@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:layout_marginBottom="40dp"
-        android:text="Convert Curency"
+        android:text="Convert Currency"
         android:textSize="40sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/inputText"
